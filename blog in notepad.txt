@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <head><title>My blog</title></head>
+  <h3 align="center">Welcome to my blog</h3>
+  <h1><center>I like to code and make projects<br />
+  The very first project on coding is that<br />
+  i am making my blog(this blog) a code<br />
+  by simply just using html. If you are<br />
+  Interested in html you can check khan academy<br />
+  and videos that shows what are the attributes<br />
+  of basic html.</h1></center>
+  
+<form method="get" action="https://sites.google.com/apecschools.edu.ph/my-first-site-for-apec-schools/home"
+  <a href="https://www.khanacademy.org/computing/computer-programming">Coding at khan Academy</a><br />
+  <a href="https://www.youtube.com/watch?v=vNOyRZIkC7o">Html attributes</a><br />
+<textarea name="hello" rows="10" cols="25">
+Enter your suggestions here.</textarea> <br /><br />
+
+<input type ="submit" value="submit" />
+</form>
+  </body>
+</html>
+
